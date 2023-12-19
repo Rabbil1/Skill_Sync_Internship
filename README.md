@@ -1,4 +1,4 @@
-# Shaikh Mohd Rabbil's Task Repository
+# Skill Sync Internship's Task Repository
 
 Hey there! 👋 Welcome to my GitHub repository where I showcase my completed tasks and projects.
 
