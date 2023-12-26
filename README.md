@@ -11,8 +11,8 @@ Currently interning at Skill Sync, this repository reflects my journey of learni
   - Create a simple password strength tester using HTML and JavaScript.
   - Check the strength of passwords based on criteria like length, special characters, and more.
 
-- **Task 2: [Title/Description]**
-  - [Brief description of Task 2]
+- **Task 2: Web Scraper**
+  - Web scapping using python getting data from a website and printing it into excel
 
 - **Task 3: [Title/Description]**
   - [Brief description of Task 3]
