@@ -14,10 +14,10 @@ Currently interning at Skill Sync, this repository reflects my journey of learni
 - **Task 2: Web Scraper**
   - Web scapping using python getting data from a website and printing it into excel
 
-- **Task 3: [Title/Description]**
-  - I implemented the AES cryptographic algorithm in Python. This powerful encryption technique ensures the utmost security for sensitive data, making it virtually   
-     impossible for unauthorized users to access or decipher.
+- **Task 3: AES cryptographic algorithm**
+  - I implemented the AES cryptographic algorithm in Python. This powerful encryption technique ensures the utmost security for sensitive data, making it virtually   impossible for unauthorized users to access or decipher.
 
+-**Task 4: []**
 Feel free to explore each task, and don't hesitate to provide feedback or suggestions. 🚀
 
 ## Cyber Security Internship at Skill Sync
