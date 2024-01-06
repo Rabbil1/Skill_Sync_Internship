@@ -15,7 +15,8 @@ Currently interning at Skill Sync, this repository reflects my journey of learni
   - Web scapping using python getting data from a website and printing it into excel
 
 - **Task 3: [Title/Description]**
-  - [Brief description of Task 3]
+  - I implemented the AES cryptographic algorithm in Python. This powerful encryption technique ensures the utmost security for sensitive data, making it virtually   
+     impossible for unauthorized users to access or decipher.
 
 Feel free to explore each task, and don't hesitate to provide feedback or suggestions. 🚀
 
